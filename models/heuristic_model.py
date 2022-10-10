@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Heuristic classifier
-# The following is a rule based model to quickly classify URLs
+# The following is a rule based model to quickly and efficiently classify URLs
 def Heuristic_model(urls_df):
     
     heuristic_df = {}
